@@ -7,3 +7,5 @@ file.log   -  ignore one file with name file.log
 build/     -  ignore all files in dir build
 doc/*.txt  - ignore all txt files in dir doc
 doc/**/*.pdf - etc.
+
+Branching
