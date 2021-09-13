@@ -1,0 +1,9 @@
+.gitignore - file to ignore some files.
+For example:
+file.log   -  ignore one file with name file.log
+*.log      -  ignore all .log files
+!error.log -  ignoring all fikes except error.log
+/TODO      -  ignore the TODO file in the current directory
+build/     -  ignore all files in dir build
+doc/*.txt  - ignore all txt files in dir doc
+doc/**/*.pdf - etc.
