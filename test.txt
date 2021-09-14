@@ -1,12 +1,13 @@
-<<<<<<< HEAD
+
 I like sleep
 I like eat
-I girls 
+I like girls 
 Under tree
-=======
+
 I like coffe
 I like tea
 I like apple
 On the tree
->>>>>>> feature
----------------------------
+
+stage
+
